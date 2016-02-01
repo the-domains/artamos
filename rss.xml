@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[artamos]]></title>
+        <description><![CDATA[artamos]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 01 Feb 2016 19:58:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Artamos]]></title>
+            <description><![CDATA[<article><h1>Artamos</h1><p>Ik heb ervaring in verbouw- en interieurwerk voor woningbouw bedrijven en particulieren. Wilt u, als particulier of bedrijf gebruik maken van mijn diensten? Neem dan vrijblijvend contact op. Ik sta dicht bij de klant en u heeft te maken met 1 aanspreekpunt. Ik bied een totaal oplossing zonder open eind. U kunt in een afspraak de uitvoering en voorwaarden regelen.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/955f929f-bf13-4b03-85d2-22332b4d2fc2.JPG"></article>]]></description>
+            <link>undefinedartamos/index.html</link>
+            <guid isPermaLink="false">3dd19886-4046-4df1-9dc9-abfebfb51fe4</guid>
+            <pubDate>Mon, 01 Feb 2016 19:58:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
